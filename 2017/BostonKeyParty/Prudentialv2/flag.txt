@@ -1,0 +1,9 @@
+longest_common_prefix :  192
+<html>
+<head>
+	<title>level1</title>
+    <link rel='stylesheet' href='style.css' type='text/css'>
+</head>
+<body>
+
+Flag: FLAG{AfterThursdayWeHadToReduceThePointValue}
